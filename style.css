@@ -1,0 +1,41 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+#title{
+    color: blue;
+    font-size: 40px;
+    font-style: italic;
+}
+
+#context{
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color: rgba(194, 197, 194, 0.5);
+    font-size: 20px;
+}
+
+#platno{
+    color: red;
+    font-size: 45px;
+}
+
+#lenta{
+    width: 100%;
+    height: 50px;
+}
+
+#rusi{
+    width: 600px;
+    height: 300px;
+}
+
+#soly{
+    height: 200px;
+}
+
+#logo{
+    color: rgb(233, 214, 110);
+    font-size: 30px;
+}
